@@ -1,3 +1,5 @@
+_Last updated on: January 1st, 2020_
+
 # TurtleBot3
 <img src="https://github.com/ROBOTIS-GIT/emanual/blob/master/assets/images/platform/turtlebot3/logo_turtlebot3.png" width="300">
 
